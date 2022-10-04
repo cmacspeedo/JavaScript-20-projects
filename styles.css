@@ -105,7 +105,7 @@ img {
 }
 
 /* Projects Section */
-.buttons {
+/* .buttons {
   margin-top: 15px;
   margin-bottom: 50px;
 }
@@ -161,14 +161,14 @@ button:hover:not(.outline) {
   text-align: justify;
   background: rgb(0 0 0 / 50%);
   /* color: var(--on-primary); */
-  border-radius: 10px;
+  /* border-radius: 10px;
   padding: 30px;
-}
+} */
 
 p {
   margin: 0;
   line-height: 25px;
-}
+} */
 
 /* Contact Section */
 .fa-brands {
